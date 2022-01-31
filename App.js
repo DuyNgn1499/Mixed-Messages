@@ -20,3 +20,4 @@ const selectRandomString = arr => {
 //Printing the final result
 console.log(randomMessage(selectRandomString(introString), selectRandomString(firstString), selectRandomString(secondString), selectRandomString(thirdString)));
 
+
