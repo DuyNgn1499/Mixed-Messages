@@ -17,7 +17,7 @@ const selectRandomString = arr => {
     return arr[randNum];
 }
 
-//Printing the final result
+//This will print the final result!
 console.log(randomMessage(selectRandomString(introString), selectRandomString(firstString), selectRandomString(secondString), selectRandomString(thirdString)));
 
 
